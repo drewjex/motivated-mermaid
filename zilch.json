@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Motivated Mermaid",
+  "avatar": "GeakfeGsceaa_bixO",
+  "preferredColor": "forest",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
